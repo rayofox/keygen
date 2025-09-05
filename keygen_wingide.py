@@ -231,4 +231,6 @@ if __name__ == '__main__':
         genALK()
         pass
     print("==DONE==")
+    input("Enter any key to exit.")
+
     pass
